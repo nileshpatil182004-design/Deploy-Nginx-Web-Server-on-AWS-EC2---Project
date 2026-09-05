@@ -38,7 +38,7 @@ A step-by-step guide to launching an EC2 instance, installing NGINX, hosting a c
 ![EC2 Instances Dashboard](images/ec2-instances.png)
 
 > *EC2 Instances Dashboard — your running instance will show "Running" status with a green indicator, along with its Public IPv4 address.*
-
+![image alt].(https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/main/Launch%20EC2%20instance.png?raw=true
 ---
 
 ### Step 1.3 — Configure the Instance
