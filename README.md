@@ -390,9 +390,9 @@ Press `Ctrl + C` to stop.
 
 ![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/e551125b38e2af350bba7bf4d98b6c8e774e3e16/Configure%20and%20View%20NGINX%20Logs.jpeg)
 
-1[image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/106a788fbf5ed070f1941ec1d40a49cfd314e33c/Configure%20and%20View%20NGINX%20Logs1.jpeg)
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/106a788fbf5ed070f1941ec1d40a49cfd314e33c/Configure%20and%20View%20NGINX%20Logs1.jpeg)
 
-2[image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/106a788fbf5ed070f1941ec1d40a49cfd314e33c/Configure%20and%20View%20NGINX%20Logs2.jpeg)
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/106a788fbf5ed070f1941ec1d40a49cfd314e33c/Configure%20and%20View%20NGINX%20Logs2.jpeg)
 
 **Access log format:**
 
