@@ -150,6 +150,8 @@ sudo systemctl status nginx
 
 Expected output: `Active: active (running)` in green
 
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/de74825bc33b3ec63f2760d9b6c8153b6dcc3366/Start%20Nginx%20Service.png)
+
 **3.4 Test the web server**
 
 Open a browser and go to:
@@ -158,7 +160,9 @@ Open a browser and go to:
 http://<YOUR-IP>
 ```
 
-You should see the default NGINX welcome page.
+Congratulation! You should see the default NGINX welcome page.
+
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/de74825bc33b3ec63f2760d9b6c8153b6dcc3366/Test%20Your%20Web%20Server.png)
 
 ---
 
@@ -304,12 +308,15 @@ sudo systemctl reload nginx
 ```
 
 **5.7 View your custom site**
+1. Open browser
 
 ```
-http://<YOUR-IP>
+2. Go to: http://<YOUR-IP>
 ```
 
-You should see the purple gradient page.
+3. You should see the purple gradient page!
+
+![image alt]( https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/de74825bc33b3ec63f2760d9b6c8153b6dcc3366/Hello%20From%20Nginx!.png)  
 
 ---
 
@@ -359,6 +366,8 @@ sudo systemctl reload nginx
 ```
 http://<YOUR-IP>:8080
 ```
+
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/de74825bc33b3ec63f2760d9b6c8153b6dcc3366/Test%20New%20Port.png)
 
 > To revert: change `8080` back to `80` in `nginx.conf` and reload.
 
