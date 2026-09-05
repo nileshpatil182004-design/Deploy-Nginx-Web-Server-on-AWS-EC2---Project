@@ -129,6 +129,8 @@ sudo yum update -y
 
 **3.2 Install NGINX**
 
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/d14c9b2706ef937a15152c3451a3f639979852d9/Install%20and%20Start%20NGINX%20(10%20minutes).png)
+
 ```bash
 sudo yum install nginx -y
 ```
