@@ -28,6 +28,8 @@ A step-by-step guide to launching an EC2 instance, installing NGINX, hosting a c
 2. Sign in (or create a free tier account)
 3. Select your preferred region from the top-right corner (e.g., `US East - N. Virginia`)
 
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/131cf96ffc8998312307106de0e22c3ad66bcb9c/Launch%20EC2%20instance.png)
+
 ---
 
 ### Step 1.2 — Launch an EC2 Instance
