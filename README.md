@@ -378,10 +378,17 @@ http://<YOUR-IP>:8080
 **7.1 View access logs (live)**
 
 ```bash
+# Access logs (all HTTP reqests)
 sudo tail -f /var/log/nginx/access.log
+# Error logs (problem and error)
+sudo tail -f /var/log/mginx/error.log
+
+
 ```
 
 Press `Ctrl + C` to stop.
+
+![image alt](https://github.com/nileshpatil182004-design/Deploy-Nginx-Web-Server-on-AWS-EC2---Project/blob/e551125b38e2af350bba7bf4d98b6c8e774e3e16/Configure%20and%20View%20NGINX%20Logs.jpeg)
 
 **Access log format:**
 
